@@ -13,13 +13,13 @@ The post that started it all:
 
 ### Contract Info
 
-##Contract Address
+## Contract Address
 0x...
 
-##Decimals
+## Decimals
 18
 
-##Ticker
+## Ticker
 MNKY
 
 ### Support or Contact
