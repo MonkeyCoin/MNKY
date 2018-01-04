@@ -11,6 +11,11 @@ The post that started it all:
 ![Image](https://i.redd.it/fp3i8k0bo1801.jpg)
 
 
+### Distribution Info 
+There is a set amount of 1,000,000 MonkeyCoins.
+To acquire, PM me on reddit at DrawerPull with your ETH address.
+
+
 ### Contract Info
 
 ## Contract Address
