@@ -82,7 +82,7 @@ MNKY
 
 ## White Paper
 
-you can [get the PDF]({{ site.url }}/assets/mydoc.pdf) directly.
+[WhitePaper.pdf](http://MonkeyCoin.github.io/monkeycoin.github.io/MonkeyDartWhitePaper.pdf)
 
 ## Support or Contact
 
