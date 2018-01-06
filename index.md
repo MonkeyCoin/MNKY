@@ -36,7 +36,7 @@ Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts;
 The ICO will last from time of deployment, for three days, until xxx CTS time.
 
 To purchase MonkeyDart through the contract, send Ethereum to the contract address 
-    0x...
+    0x1487f4195d9953f6930c959a683a49501a8cc8bc
 Also listed below in Contract Info.
 
 The rate for the MonkeyDart ICO is: 
@@ -71,7 +71,7 @@ No idea on how many this will be.
 Also, if mass consensus on /r/CryptoCurrency or /r/MonkeyDart is reached about how many to burn, or what to do with the rest of the coins, I will do that instead. 
 
 ## Supported Exchanges
-EtherDelta: 
+EtherDelta: https://etherdelta.com/#0x1487f4195d9953f6930c959a683a49501a8cc8bc-ETH
 ...more to come. Hopefully.
 
 
