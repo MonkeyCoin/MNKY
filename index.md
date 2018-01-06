@@ -78,7 +78,7 @@ EtherDelta:
 ## Contract Info
 
 ### Contract Address
-0x...
+0x1487F4195d9953F6930C959a683A49501A8Cc8BC
 
 ### Decimals
 18
