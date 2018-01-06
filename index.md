@@ -33,7 +33,7 @@ Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts;
     in the code, and to distribute for free during the first 24hrs of deployment. 
 
 ### ICO is ACTIVE
-The ICO will last from time of deployment, for three days, until xxx CTS time.
+The ICO will last from time of deployment, for three days, until 12:00 1/9/2017 CTS time.
 
 To purchase MonkeyDart through the contract, send Ethereum to the contract address 
     0x1487f4195d9953f6930c959a683a49501a8cc8bc
