@@ -24,7 +24,7 @@ https://www.reddit.com/r/CryptoCurrency/comments/7o2o44/welcome_to_the_age_of_mo
 ## Distribution Info 
 There is a set amount of 68,658,284 MonkeyCoins.
 
-This is MNKY in ASCII converted to Decimal. 
+This is DART in ASCII converted to Decimal. 
 
 To acquire, PM me on reddit at DrawerPull with your ETH address. 
 Or buy on EtherDelta eventually.
