@@ -12,7 +12,7 @@ Life is pain!
 
 MNKY is an ERC20 token. Details below
 
-### Origin Story
+## Origin Story
 
 The post that started it all:
 
@@ -21,7 +21,7 @@ https://www.reddit.com/r/CryptoCurrency/comments/7o2o44/welcome_to_the_age_of_mo
 ![Image](https://i.redd.it/fp3i8k0bo1801.jpg)
 
 
-### Distribution Info 
+## Distribution Info 
 There is a set amount of 68,658,284 MonkeyCoins.
 
 This is MNKY in ASCII converted to Decimal. 
@@ -30,20 +30,20 @@ To acquire, PM me on reddit at DrawerPull with your ETH address.
 Or buy on EtherDelta eventually.
 
 
-### Contract Info
+## Contract Info
 
-## Contract Address
+### Contract Address
 0x...
 
-## Decimals
+### Decimals
 18
 
-## Ticker
+### Ticker
 MNKY
 
-### White Paper
+## White Paper
 
-### Support or Contact
+## Support or Contact
 
 If you're having issues, post an issue on the GitHub at 
 https://github.com/MonkeyCoin/MNKY/issues
