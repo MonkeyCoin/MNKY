@@ -29,7 +29,7 @@ Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts;
     10 million to be posted on EtherDelta at time of launch,
     and 20 million to keep in case of needing to replace any 
     MonkeyDarts somebody might have lost due to (not likely) errors
-    in the code. Just in case, can't hurt. 
+    in the code, and to distribute for free during the first 24hrs of deployment. 
 
 ### ICO is ACTIVE
 The ICO will last from time of deployment, for three days, until xxx CTS time.
