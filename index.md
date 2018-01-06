@@ -1,4 +1,4 @@
-## Welcome to MonkeyCoin (MNKY)
+## Welcome to MonkeyDart (MNKY)
 
 This coin at this moment serves NO earthly purpose. Shit-coin's gotta shit.
 
@@ -22,7 +22,9 @@ https://www.reddit.com/r/CryptoCurrency/comments/7o2o44/welcome_to_the_age_of_mo
 
 
 ## Distribution Info 
-There is a set amount of 6,897,114,116 MonkeyCoins.
+There is a set amount of 6,897,114,116 MonkeyDart.
+
+Me, /u/DrawerPull, will be keeping 500k MonkeyDarts
 
 This is Dart in ASCII converted to Decimal. 
 
