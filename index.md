@@ -20,7 +20,7 @@ MNKY is an ERC20 token. Details below
 
 
 ## Distribution Info 
-There is a set amount of 6,897,114,116 MonkeyDart.
+There is a set amount of 6,897,114,116 MonkeyDarts.
 
 This is "Dart" in ASCII converted to Decimal. 
 
@@ -29,7 +29,7 @@ Also a huge number so everyone will have a chance to participate in the ICO.
 Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts; 
     10 million to be posted on EtherDelta at time of launch,
     and 20 million to keep in case of needing to replace any 
-    MonkeyDarts somebody might have lost due to (not likely) errors
+    MonkeyDarts somebody might have lost due to (not likely but just in case) errors
     in the code, and to distribute for free during the first 24hrs of deployment. 
 
 ### ICO is ACTIVE
