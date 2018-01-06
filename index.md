@@ -82,6 +82,8 @@ MNKY
 
 ## White Paper
 
+you can [get the PDF]({{ site.url }}/assets/mydoc.pdf) directly.
+
 ## Support or Contact
 
 If you're having issues, post an issue on the GitHub at 
