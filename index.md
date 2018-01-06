@@ -14,7 +14,7 @@ MNKY is an ERC20 token. Details below
 
 ## Origin Story
 
-The post that started it all:
+[The post that started it all:](https://www.reddit.com/r/CryptoCurrency/comments/7o2o44/welcome_to_the_age_of_monkey_darts/)
 
 https://www.reddit.com/r/CryptoCurrency/comments/7o2o44/welcome_to_the_age_of_monkey_darts/
 
