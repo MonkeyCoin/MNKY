@@ -82,7 +82,7 @@ MNKY
 
 ## White Paper
 
-[WhitePaper.pdf](http://MonkeyCoin.github.io/monkeycoin.github.io/MonkeyDartWhitePaper.pdf)
+[White Paper](http://MonkeyCoin.github.io/monkeycoin.github.io/MonkeyDartWhitePaper.pdf)
 
 ## Support or Contact
 
