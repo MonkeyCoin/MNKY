@@ -21,7 +21,10 @@ MNKY is an ERC20 token. Details below
 
 ## Distribution Info 
 There is a set amount of 6,897,114,116 MonkeyDart.
+
 This is "Dart" in ASCII converted to Decimal. 
+
+Also a huge number so everyone will have a chance to participate in the ICO.
 
 Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts; 
     10 million to be posted on EtherDelta at time of launch,
@@ -60,7 +63,12 @@ Because I have to pay for gas, this is the limit; unless someone wants to donate
 
 **I will send them as fast as I can, for the first 24 hours.**
 
+## Coin Burn
+After the ICO ends, three days after deployment, I will burn all the remaining coins that the contract hasn't sold.
 
+No idea on how many this will be. 
+
+Also, if mass consensus on /r/CryptoCurrency or /r/MonkeyDart is reached about how many to burn, or what to do with the rest of the coins, I will do that instead. 
 
 ## Supported Exchanges
 EtherDelta: 
