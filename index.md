@@ -37,6 +37,7 @@ The ICO will last from time of deployment, for three days, until xxx CTS time.
 
 To purchase MonkeyDart through the contract, send Ethereum to the contract address 
     0x1487f4195d9953f6930c959a683a49501a8cc8bc
+    
 Also listed below in Contract Info.
 
 The rate for the MonkeyDart ICO is: 
