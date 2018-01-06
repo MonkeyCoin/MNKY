@@ -38,11 +38,12 @@ To purchase MonkeyDart through the contract, send Ethereum to the contract addre
     0x...
 Also listed below in Contract Info.
 
-The rate for the MonkeyDart ICO is 
+The rate for the MonkeyDart ICO is: 
 ### 0.001 ETH = 10,000 MNKY
 
+
 IF for some reason, all 6+ billion of MonkeyDart's are purchased during the time of the ICO, 
-sending anymore will result in a failure and your ETH - gas will be returned to your address.
+sending anymore will result in a failure and your ETH (- gas) will be returned to your address.
 
 The same will happen if ETH is sent to the contract AFTER the ICO has ended. 
 
@@ -50,9 +51,10 @@ The status of the ICO will be listed above.
 
 ### Free MNKY during first 24hrs of deployment is ACTIVE
 
+
 To acquire, PM me on reddit at /u/DrawerPull with your ETH address. 
 
-The rules are: **1 ETH address, per account (with 10+ karma).
+The rules are: **1 ETH address, per account (with 10+ karma)**.
 
 I will send **10,000 MNKY** to each address that is PM'd to my inbox, for the **first 100 accounts**. 
 
