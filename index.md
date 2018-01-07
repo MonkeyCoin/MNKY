@@ -78,6 +78,10 @@ EtherDelta: https://etherdelta.com/#0x1487f4195d9953f6930c959a683a49501a8cc8bc-E
 
 ## Contract Info
 
+The source code is verified/published here:
+
+https://etherscan.io/address/0x1487f4195d9953f6930c959a683a49501a8cc8bc
+
 ### Contract Address
 0x1487F4195d9953F6930C959a683A49501A8Cc8BC
 
