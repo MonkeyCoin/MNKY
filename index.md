@@ -51,18 +51,13 @@ The same will happen if ETH is sent to the contract AFTER the ICO has ended.
 
 The status of the ICO will be listed above.
 
-### Free MNKY during first 24hrs of deployment is ACTIVE
+### Free MNKY during first 24hrs of deployment is NOT ACTIVE
 
 
-To acquire, PM me on reddit at /u/DrawerPull with your ETH address. 
+Sorry, Free MNKY is not active anymore. Thanks to everyone that PM'd me! And enjoy :) 
 
-The rules are: **1 ETH address, per account (with 10+ karma)**.
+The ICO is still active.
 
-I will send **10,000 MNKY** to each address that is PM'd to my inbox, for the **first 100 accounts**. 
-
-Because I have to pay for gas, this is the limit; unless someone wants to donate some ETH (I will send as much additional free MNKY I can for all ETH someone donates), or can figure out another way to fairly and evenly distribute free MNKY during the first 24hrs of deployment. 
-
-**I will send them as fast as I can, for the first 24 hours.**
 
 ## Coin Burn
 After the ICO ends, three days after deployment, I will burn all the remaining coins that the contract hasn't sold.
