@@ -33,7 +33,9 @@ Me, /u/DrawerPull, will be keeping 30 million MonkeyDarts;
     in the code, and to distribute for free during the first 24hrs of deployment. 
 
 ### ICO is ACTIVE
-The ICO will last from time of deployment, for three days, until 12:00 1/9/2017 CTS time.
+~~The ICO will last from time of deployment, for three days, until 12:00 1/9/2017 CTS time.~~
+
+The ICO will be active until I hear back from an exchange about getting this coin listed.
 
 To purchase MonkeyDart through the contract, send Ethereum to the contract address 
     0x1487f4195d9953f6930c959a683a49501a8cc8bc
@@ -60,7 +62,8 @@ The ICO is still active.
 
 
 ## Coin Burn
-After the ICO ends, three days after deployment, I will burn all the remaining coins that the contract hasn't sold.
+After the ICO ends, ~~three days after deployment, I will burn all the remaining coins that the contract hasn't sold.~~,
+I will distribute a set amount of coins correlating to a currently unchosen ratio (will definitely be a large amount) to those who purchased coins through the contract, and burn the rest.
 
 No idea on how many this will be. 
 
